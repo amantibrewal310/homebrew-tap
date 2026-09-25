@@ -1,6 +1,6 @@
 cask "notchcove" do
-  version "0.1.7"
-  sha256 "f845b3c169afd588ed88f1863ecf8a3e534c616521aef22b3b6336a953880a92"
+  version "0.1.8"
+  sha256 "6e1a1cdfe3415fb2576c9e132cc08f32235c7a7ab89ea0e963f5a6ef6d70194c"
 
   url "https://github.com/amantibrewal310/NotchCove/releases/download/v#{version}/NotchCove-#{version}.zip"
   name "NotchCove"
